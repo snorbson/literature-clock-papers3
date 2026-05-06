@@ -163,8 +163,6 @@ Higher voltage may permanently damage the device.
 
 ## 📸 Photo
 
-(Add your device photo here)
-
 Example after uploading:
 
 ![Device](images/device.jpg)
